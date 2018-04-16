@@ -1,0 +1,1 @@
+document.getElementById("add").addEventListener('click', todoView.addTodo);
